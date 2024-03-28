@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @DK1541
+- 👀 I’m interested in Chess, Math, reading philosophy, Hiking, working out, playing board games
+- 🌱 I’m currently learning how to be good at being a full-stack developer
+- 💞️ I’m looking to collaborate on any front end/ backend or any projects, I have learned the basics of HTML, CSS, Python, SQL
+- 📫 How to reach me: Dhirenderkumar.p97@gmail.com
+- ⚡ Fun fact: I can laugh and fart at the same time
